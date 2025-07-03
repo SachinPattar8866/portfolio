@@ -9,7 +9,7 @@ const Resume = () => {
 
         <div className="text-center mb-4">
           <a
-            href="/resume.pdf"
+            href="/Sachin_Pattar_Resume.pdf"
             download
             className="btn btn-primary"
           >

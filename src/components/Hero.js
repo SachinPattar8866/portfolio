@@ -15,7 +15,7 @@ const Hero = () => {
         <p className="hero-subtitle">Aspiring Software Developer | Tech Enthusiast</p>
         <div className="hero-buttons mt-3">
           <a href="#contact" className="btn btn-primary me-3">Get In Touch</a>
-          <a href="/resume.pdf" className="btn btn-outline-light" download>Download Resume</a>
+          <a href="/Sachin_Pattar_Resume.pdf" className="btn btn-outline-light" download>Download Resume</a>
         </div>
       </div>
     </section>
