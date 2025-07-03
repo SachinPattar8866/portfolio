@@ -1,25 +1,38 @@
-👨‍💻 Sachin Pattar — Personal Portfolio
-Welcome to my personal portfolio website built using React.js, Bootstrap, and JavaScript. This project showcases my background, skills, projects, and contact details — all in one place!
+# 👨‍💻 Sachin Pattar — Personal Portfolio
 
-🔗 Live Website: https://SachinPattar8866.github.io/portfolio
+Welcome to my personal portfolio website built using **React.js**, **Bootstrap**, and **JavaScript**. This project showcases my background, skills, projects, and contact details — all in one place!
 
-🚀 Technologies Used
-React.js (CRA)
-Bootstrap 5
-Font Awesome
-CSS3
-JavaScript (ES6)
-Git & GitHub
-GitHub Pages (for deployment)
-📂 Features
-Responsive & mobile-friendly design
-Video or animated background in Hero section
-Downloadable resume (/public/resume.pdf)
-Projects section with cards
-Contact form & social media links
-Easy navigation with scroll-based routing
-📁 Project Structure
-src/ ├── assets/
+🔗 **Live Website:** [https://SachinPattar8866.github.io/portfolio](https://SachinPattar8866.github.io/portfolio)
+
+---
+
+## 🚀 Technologies Used
+
+- React.js (CRA)
+- Bootstrap 5
+- Font Awesome
+- CSS3
+- JavaScript (ES6)
+- Git & GitHub
+- GitHub Pages (for deployment)
+
+---
+
+## 📂 Features
+
+- Responsive & mobile-friendly design
+- Video or animated background in Hero section
+- Downloadable resume (`/public/resume.pdf`)
+- Projects section with cards
+- Contact form & social media links
+- Easy navigation with scroll-based routing
+
+---
+
+## 📁 Project Structure
+
+src/
+├── assets/
 
 │ ├── images/ # Project, logo, and profile images
 
@@ -33,9 +46,17 @@ src/ ├── assets/
 
 ├── index.js # React DOM renderer
 
-Screenshot 2025-07-03 154149
 
-📦 Installation (for devs)
+
+
+
+
+![Screenshot 2025-07-03 154149](https://github.com/user-attachments/assets/e3f2852a-c6d4-4905-a90c-179c766cf5b5)
+
+
+## 📦 Installation (for devs)
+
+```bash
 git clone https://github.com/SachinPattar8866/portfolio.git
 cd portfolio
 npm install
@@ -51,3 +72,6 @@ Make sure homepage is set in package.json:
 
 📝 License
 This project is open source and free to use. Give credit if you fork or use parts of it.
+
+
+>>>>>>> 3faf283f48b888f9d747f0c6e5ad2777d8236d13
