@@ -33,12 +33,23 @@ Welcome to my personal portfolio website built using **React.js**, **Bootstrap**
 
 src/
 ├── assets/
+
 │ ├── images/ # Project, logo, and profile images
+
 │ └── videos/ # Hero section background video
+
 ├── components/ # All React components (Hero, About, Projects, etc.)
+
 ├── App.js # Main application component
+
 ├── App.css # Global styles
+
 ├── index.js # React DOM renderer
+
+
+
+
+
 
 ![Screenshot 2025-07-03 154149](https://github.com/user-attachments/assets/e3f2852a-c6d4-4905-a90c-179c766cf5b5)
 
