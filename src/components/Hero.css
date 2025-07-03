@@ -1,0 +1,31 @@
+.hero-section {
+  height: 100vh;
+  overflow: hidden;
+  position: relative;
+}
+
+.bg-video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  min-height: 100%;
+  object-fit: cover;
+  z-index: -1;
+  opacity: 0.8;
+}
+
+.hero-content {
+  height: 100%;
+  padding-top: 80px; /* Adjust if navbar overlaps */
+}
+
+.hero-title {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.hero-subtitle {
+  font-size: 1.5rem;
+  font-weight: 300;
+}
