@@ -1,6 +1,6 @@
 import React from 'react';
 import './Hero.css';
-import heroVideo from '../assets/videos/hero-bg.mp4'; // Add your video here
+import heroVideo from '../assets/videos/hero-bg.mp4';
 
 const Hero = () => {
   return (
@@ -15,7 +15,14 @@ const Hero = () => {
         <p className="hero-subtitle">Aspiring Software Developer | Tech Enthusiast</p>
         <div className="hero-buttons mt-3">
           <a href="#contact" className="btn btn-primary me-3">Get In Touch</a>
-          <a href="/Sachin_Pattar_Resume.pdf" className="btn btn-outline-light" download>Download Resume</a>
+          <a
+            href="https://sachinpattar8866.github.io/portfolio/Sachin_Pattar_Resume.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="btn btn-outline-light"
+          >
+            Download Resume
+          </a>
         </div>
       </div>
     </section>

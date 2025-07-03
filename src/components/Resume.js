@@ -9,8 +9,9 @@ const Resume = () => {
 
         <div className="text-center mb-4">
           <a
-            href="/Sachin_Pattar_Resume.pdf"
-            download
+            href="https://sachinpattar8866.github.io/portfolio/Sachin_Pattar_Resume.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
             className="btn btn-primary"
           >
             Download Resume
