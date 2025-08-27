@@ -9,7 +9,7 @@ const Resume = () => {
 
         <div className="text-center mb-4">
           <a
-            href="https://sachinpattar8866.github.io/portfolio/Sachin_Pattar_Resume.pdf"
+            href="https://sachinpattar8866.github.io/portfolio/sachin_pattar_resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="btn btn-primary"

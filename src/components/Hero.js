@@ -16,7 +16,7 @@ const Hero = () => {
         <div className="hero-buttons mt-3">
           <a href="#contact" className="btn btn-primary me-3">Get In Touch</a>
           <a
-            href="https://sachinpattar8866.github.io/portfolio/Sachin_Pattar_Resume.pdf"
+            href="https://sachinpattar8866.github.io/portfolio/sachin_pattar_resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="btn btn-outline-light"
